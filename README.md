@@ -3,6 +3,7 @@ A Patch for Fire Red (Rev 1) that adds quality of life improves for playing Iron
 
 * You must talk to Mom to start your adventure, but don't worry, she has something to show you
 * The Oak Parcel quest is shortened by having the Mart Employee and Oak meet you part way
+* Repel's will prompt you to use another one when your current one wears off
 * TM's are Gold instead of Red
 * Instant PC (very short animation for healing at the PokeCenter)
 * Step Items in the Underground Pass and Sevii Islands are now guaranteed to spawn. This does not work with the Mt. Moon items.
