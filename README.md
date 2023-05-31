@@ -1,5 +1,5 @@
 # Faster-Fire-Red
-A Patch for Fire Red (Rev 1) that adds quality of life improves for playing IronMON
+A Patch for Fire Red (Rev 1) that adds quality of life improvements for playing IronMON
 
 * You must talk to Mom to start your adventure, but don't worry, she has something to show you
 * The Oak Parcel quest is shortened by having the Mart Employee and Oak meet you part way
