@@ -8,7 +8,7 @@ A Patch for Fire Red (Rev 1) that adds quality of life improvements for playing 
 * Instant PC (very short animation for healing at the PokeCenter)
 * Step Items in the Underground Pass and Sevii Islands are now guaranteed to spawn. This does not work with the Mt. Moon items.
 * The PC Item is now in the lab instead of in the PC, allowing people to savestate in the lab and still have the PC item
-* Bill no longer asks you to go to Sevii after beating Blaine
+* Bill no longer asks you to go to Sevii after beating Blaine but he is still located in the Cinnabar Island PokeCenter
 
 
 **This patch is for Fire Red (Rev 1) (sometimes called Fire Red 1.1)**  
