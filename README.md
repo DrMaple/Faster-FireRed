@@ -17,4 +17,4 @@ You can check if you have the right ROM by looking at the SHA-1 of you ROM on th
 The correct SHA-1 for the base ROM is **DD5945DB9B930750CB39D00C84DA8571FEEBF417**  
 
 Patch Here: https://www.marcrobledo.com/RomPatcher.js/  
-Download: https://github.com/DrMaple/Faster-Fire-Red/raw/main/Faster%20Fire%20Red%20-%20Final%20V1.ips
+Download: [Faster Fire Red](https://github.com/DrMaple/Faster-Fire-Red/raw/main/Faster%20Fire%20Red%20-%20Final%20V1.ips)
