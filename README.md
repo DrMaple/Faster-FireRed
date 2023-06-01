@@ -17,5 +17,5 @@ A Patch for Fire Red (Rev 1) that adds quality of life improvements for playing 
 You can check if you have the right ROM by looking at the SHA-1 of you ROM on the [patcher website](https://www.marcrobledo.com/RomPatcher.js/)  
 The correct SHA-1 for the base ROM is **DD5945DB9B930750CB39D00C84DA8571FEEBF417**  
 
-Patch Here: https://www.marcrobledo.com/RomPatcher.js/  
-Download: [Faster Fire Red](https://github.com/DrMaple/Faster-Fire-Red/raw/main/Faster%20Fire%20Red%201.1.ips)
+**Website to Apply Patch:** https://www.marcrobledo.com/RomPatcher.js/  
+**Download:** [Faster Fire Red](https://github.com/DrMaple/Faster-Fire-Red/raw/main/Faster%20Fire%20Red%201.1.ips)
