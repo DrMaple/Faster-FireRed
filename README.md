@@ -1,5 +1,5 @@
-# Faster-Fire-Red
-A Patch for Fire Red (Rev 1) that adds quality of life improvements for playing IronMON
+# Faster FireRed
+A Patch for FireRed (Rev 1) that adds quality of life improvements for playing IronMON
 
 * You must talk to Mom to start your adventure, but don't worry, she has something to show you
 * The Oak Parcel quest is shortened by having the Mart Employee and Oak meet you part way
@@ -12,10 +12,10 @@ A Patch for Fire Red (Rev 1) that adds quality of life improvements for playing 
 * Bill no longer asks you to go to Sevii after beating Blaine but he is still located in the Cinnabar Island PokeCenter
 * An NPC was modified in Viridian to give you a Friendship boost to a single Pokemon. Please note that this is against the spirit of the challenge and should only be used if you're fully aware of this. This can only be used once per run.
 
-**This patch is for Fire Red (Rev 1) (sometimes called Fire Red 1.1)**  
+**This patch is for FireRed (Rev 1) (sometimes called FireRed 1.1)**  
 
 You can check if you have the right ROM by looking at the SHA-1 of you ROM on the [patcher website](https://www.marcrobledo.com/RomPatcher.js/)  
 The correct SHA-1 for the base ROM is **DD5945DB9B930750CB39D00C84DA8571FEEBF417**  
 
 **Website to Apply Patch:** https://www.marcrobledo.com/RomPatcher.js/  
-**Download:** [Faster Fire Red](https://github.com/DrMaple/Faster-Fire-Red/raw/main/Faster%20Fire%20Red%201.1.ips)
+**Download:** [Faster FireRed](https://github.com/DrMaple/Faster-Fire-Red/raw/main/Faster%20Fire%20Red%201.1.ips)
