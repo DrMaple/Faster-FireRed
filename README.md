@@ -1,6 +1,12 @@
-# Faster FireRed
 A Patch for FireRed (Rev 1) that adds quality of life improvements for playing IronMON
 
+[**Make sure to check out the IronMON Patch Editor for FireRed and Emerald!**](https://github.com/DrMaple/IronMONPatchEditor/releases/tag/1.2)
+
+**New:**
+* Hidden Items are marked visually making them not really hidden items anymore (There is also a patch with no Hidden Item Marks)
+* There is now a Nurse stationed in Viridian Forest. She will only heal your Pokemon if none of the Pokemon in your party are poisoned.
+
+**Older Changes:**
 * You must talk to Mom to start your adventure, but don't worry, she has something to show you
 * The Oak Parcel quest is shortened by having the Mart Employee and Oak meet you part way
 * Repel's will prompt you to use another one when your current one wears off
@@ -18,4 +24,4 @@ You can check if you have the right ROM by looking at the SHA-1 of you ROM on th
 The correct SHA-1 for the base ROM is **DD5945DB9B930750CB39D00C84DA8571FEEBF417**  
 
 **Website to Apply Patch:** https://www.marcrobledo.com/RomPatcher.js/  
-**Download:** [Faster FireRed](https://github.com/DrMaple/Faster-Fire-Red/raw/main/Faster%20Fire%20Red%201.1.ips)
+**Download:** [Faster FireRed 1.2](https://github.com/DrMaple/Faster-FireRed/releases/download/1.2/Faster.FireRed.1.2.ips) OR [Faster FireRed 1.2 No Hidden Item Marks](https://github.com/DrMaple/Faster-FireRed/releases/download/1.2/Faster.FireRed.1.2.No.Hidden.Item.Marks.ips)
