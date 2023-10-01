@@ -1,5 +1,10 @@
 A Patch for FireRed (Rev 1) that adds quality of life improvements for playing IronMON
 
+**This patch is for FireRed (Rev 1) (sometimes called FireRed 1.1)**  
+
+You can check if you have the right ROM by looking at the SHA-1 of you ROM on the [patcher website](https://www.marcrobledo.com/RomPatcher.js/)  
+The correct SHA-1 for the base ROM is **DD5945DB9B930750CB39D00C84DA8571FEEBF417**
+
 [**Make sure to check out the IronMON Patch Editor for FireRed and Emerald!**](https://github.com/DrMaple/IronMONPatchEditor/releases/tag/1.2)
 
 **New:**
